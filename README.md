@@ -2,14 +2,11 @@
 
 Companion code for the [MetalSprockets](https://github.com/schwa/MetalSprockets) tutorials.
 
-> **Note:** This repository contains the complete solutions for each tutorial.
+Each folder contains a complete Xcode project you can build and run, or use as a reference while following the documentation.
 
-## Tutorials
+## Getting Started
 
-| Tutorial | Description |
-|----------|-------------|
-| [Tutorial 1](Tutorial%201/) | **Your First Metal Triangle** — Render a colorful triangle using MetalSprockets |
-| [Tutorial 2](Tutorial%202/) | **Vertex Buffers and Custom Elements** — Define geometry in Swift and create reusable render pipelines |
+📖 **[Start the Tutorials](https://schwa.github.io/MetalSprockets/documentation/metalsprockets/01-colorfultriangle)**
 
 ## Requirements
 
